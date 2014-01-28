@@ -1,0 +1,6 @@
+*.box
+.*.swp
+.ruby-version
+.bundle
+vendor
+Gemfile.lock
