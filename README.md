@@ -7,11 +7,11 @@ If you don't find what you're looking for here, please see [veewee](https://gith
 To build a new Vagrant VM image for use with Virtual Box you'll need a few
 things:
 
-- [x] Ruby (included with Mavericks)
-- [ ] [Bundler](http://bundler.io/) for Ruby
-- [ ] [Virtual Box](https://www.virtualbox.org/)
-- [ ] [Vagrant](http://www.vagrantup.com/)
-- [ ] A bit of time…
+1. Ruby (included with Mavericks)
+1. [Bundler](http://bundler.io/) for Ruby
+1. [Virtual Box](https://www.virtualbox.org/)
+1. [Vagrant](http://www.vagrantup.com/)
+1. A bit of time…
 
 Core services in place clone this repository to a sensible location:
 
